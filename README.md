@@ -1,4 +1,4 @@
-<img src="https://github.com/yasin-arft/yasin-arft/blob/main/images/icons/banner.png" />
+<img src="https://github.com/yasin-arft/yasin-arft/blob/main/images/banner.png" />
 
 # About Me
 ### I am a passionate and dedicated fresher web developer skilled on HTML, CSS, Javascript, React and Tailwind. I am familiar with various libraries, frameworks ang npm packages such as DaisyUi, Shadcn, React Router, React hook form, Tanstack query, axios etc. I also explored Node, Express, MongoDB as a part of MERNStack. My goal is to combine my technical expertise with business knowledge to create innovative web solutions that solve real-world problems.

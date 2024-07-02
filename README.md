@@ -1,4 +1,8 @@
-# Stats
+
+# About Me
+### I am a passionate and dedicated fresher web developer skilled on HTML, CSS, Javascript, React and Tailwind. I am familiar with various libraries, frameworks ang npm packages such as DaisyUi, Shadcn, React Router, React hook form, Tanstack query, axios etc. I also explored Node, Express, MongoDB as a part of MERNStack. My goal is to combine my technical expertise with business knowledge to create innovative web solutions that solve real-world problems.
+
+# Statistics
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=yasin-arft&theme=highcontrast&border_radius=8" />
 </p>
@@ -21,9 +25,3 @@
 <img src="https://github.com/yasin-arft/yasin-arft/blob/main/images/icons/express.png"/>
 <img src="https://github.com/yasin-arft/yasin-arft/blob/main/images/icons/mongo.png"/>
 </p>
-
-- 👋 Hi, I’m @yasin-arft
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning tailwind
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
